@@ -12,12 +12,12 @@ The plugin is easy to use:
 
 Send a private message to player:
 
-  /message [PlayerName] [Message
+  /message [PlayerName] [Message] or use
   /msg [PlayerName] [Message]
   
 Reply to a message:
 
-  /reply [Message]
+  /reply [Message] or use
   /r [Message]
   
 The Reply function allows you to reply to a private message you got from an other player.
