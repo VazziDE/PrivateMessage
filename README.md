@@ -1,7 +1,7 @@
 # PrivateMessage
 PrivateMessage is a PocketMine-MP Plugin to send a private message to other player.
 
-How to get the plugin?
+*How to get the plugin?*
 
 1. Download the plugin from here.
 2. Drag the plugin into your plugin order on the server.
