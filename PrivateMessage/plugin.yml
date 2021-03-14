@@ -1,0 +1,6 @@
+name: PrivateMessage
+main: Vazzi\PrivateMessage\Main
+version: 1.0.0
+api: 3.17.0
+author: Vazzi
+description: PrivateMessage for PocketMine-MP
