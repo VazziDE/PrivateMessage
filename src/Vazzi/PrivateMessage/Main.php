@@ -35,8 +35,8 @@ class Main extends PluginBase {
 	public function registerCommands()
 	{
 		$cmds = $this->getServer()->getCommandMap();
-		$cmds->register('message', new MessageCommand());
-		$cmds->register('reply', new ReplyCommand());
+		$cmds->register('PrivateMessage', new MessageCommand());
+		$cmds->register('PrivateMessage', new ReplyCommand());
 	}
 
 	public function unregister($commands){
